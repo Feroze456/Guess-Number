@@ -1,0 +1,19 @@
+body{
+    /* background-image: linear-gradient(to left top, #c6fced, #a3efda, #7fe3c7, #54d5b3, #00c89f); */
+    background-image: url('https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2018/06/Screen-Shot-2018-06-13-at-9.50.39-PM.png');
+    color: #2F3139;
+    /* background-color: #16a085; */
+    margin: 10rem auto;
+    height:50vh;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  .lastResult {
+     color: white;
+     padding: 3px;
+  }
+  button {
+    margin-left:3rem ;
+  }
